@@ -1,0 +1,35 @@
+1. What is HTTP?
+HTTP is a standard communication protocol designed for use between web browsers 
+and web servers.
+
+2. What is a URL?
+A uniform resource locator is an address of a particular resource on the web.
+
+3. What is DNS?
+The Domain Name System is a naming system used to name a given resource on the web. The names 
+are used in conjunction with IP addresses in order to locate files and directories on the web.
+
+4. What is a query string?
+A query string is a part of the URL that is used to send and retrieve information from the
+database or api of a given URL. 
+
+5. What are two HTTP verbs and how are they different?
+GET and POST are two HTTP requests. GET passes information given directly through the URL in
+order to retrive information. POST in contrast passes information through the body and posts
+information to a database or api.
+
+6. What is an HTTP request?
+An HTTP request is a request made to a db or api fpr some information.
+
+7. What is an HTTP response?
+An HTTP response is the information sent back in response to an HTTP request.
+
+8. What is an HTTP header?
+Header files are the additional information sent and passed through HTTP communication. The 
+language of the page, time stamps and cookies are examples of headers.
+
+9. What happens when you type a URL into the browser?
+The browser looks for the ip address of the given URL. Once it is found the browser makes
+a request for some information to that ip address. The server then responds by sending 
+back whatever information was asked for and the browser renders the files is recived into
+a web page. 
